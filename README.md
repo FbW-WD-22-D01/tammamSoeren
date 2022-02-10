@@ -20,6 +20,4 @@
 - [x] Ich habe bereits Erfahrung mit Html & CSS
 - [x] Ich weiß wofür MERN Stack steht
 
-:smile: 
-
-[Mein github](https://github.com/SoerenDCI)
+:smile: [Mein github](https://github.com/SoerenDCI)
